@@ -1,5 +1,6 @@
 {
   "expo": {
+    "jsEngine": "jsc",
     "name": "cameraTest",
     "slug": "cameraTest",
     "version": "1.0.0",

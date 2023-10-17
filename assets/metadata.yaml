@@ -1,0 +1,15 @@
+description: Ultralytics best model trained on /home/kimdonguk/coding/capstone_test/merged_dataset/traffic_data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-10-15T22:09:16.633860'
+version: 8.0.155
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 416
+- 416
+names:
+  0: Zebra_Cross
+  1: R_Signal
+  2: G_Signal
